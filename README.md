@@ -1,5 +1,6 @@
 # E-West Immunity 2023
-Scripts and data from the paper: "CD4 T cell intrinsic arginase 1 controls the kinetics of Th1 induction and contraction" in Immunity
+Scripts and data from the paper: "CD4 T cell intrinsic arginase 1 controls the kinetics of Th1 induction and contraction" in Immunity.
+For more information, see the paper: 
 
 This repo contains:
 
