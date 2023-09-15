@@ -1,4 +1,4 @@
-# West, E et al. Loss of CD4+ T cell-intrinsic arginase 1 accelerates Th1 response kinetics and reduces lung pathology during influenza infection. Immunity 2023
+# West, E. _et al_. Loss of CD4+ T cell-intrinsic arginase 1 accelerates Th1 response kinetics and reduces lung pathology during influenza infection. _Immunity_ 2023
 Scripts and data from the paper: "Loss of CD4+ T cell-intrinsic arginase 1 accelerates Th1 response kinetics and reduces lung pathology during influenza infection" in Immunity.
 
 This repo contains:
